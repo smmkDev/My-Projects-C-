@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671719722 source:f:\c work place\project16\typing tutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

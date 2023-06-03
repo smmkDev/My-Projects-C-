@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640605126 source:f:\c work place\project21\binary to decimal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

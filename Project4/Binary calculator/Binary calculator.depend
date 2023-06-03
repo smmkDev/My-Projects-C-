@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635077412 source:f:\c work place\project4\binary calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
